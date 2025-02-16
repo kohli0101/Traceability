@@ -1,7 +1,7 @@
 {
   "name": "Data Entry Form",
   "short_name": "EntryForm",
-  "start_url": "/",
+  "start_url": "https://script.google.com/macros/s/AKfycbydn2zryfWU7VT-frV3EqpI_Kxr5sfX98SzOCwAfiZCCGo1GVLr1oNdWfcS0LKWJ3EqFQ/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
